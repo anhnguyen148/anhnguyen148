@@ -13,7 +13,9 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=anhnguyen148&style=flat-square&color=red" alt=""></p>
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-### About me:
+### :woman_technologist: &nbsp;About Me :
+Full Stack Developer <img src="https://media.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif" width="30"> U.S based - Vietnamese origin.
+
 
 <!--
 **anhnguyen148/anhnguyen148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
