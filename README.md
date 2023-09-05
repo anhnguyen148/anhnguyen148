@@ -41,7 +41,10 @@ Full Stack Developer <img src="https://media.giphy.com/media/5aYfJYohCSeYgtVlUj/
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
+---
 
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com/?user=anhnguyen148)](https://git.io/streak-stats)
 <!--
 **anhnguyen148/anhnguyen148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
