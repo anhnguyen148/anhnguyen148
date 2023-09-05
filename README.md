@@ -3,6 +3,7 @@
 </div> -->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjY2ZGo5MG1mdnA2aGg5cXUzMDZub29xOGM0M3RjaGljeXgyM3lwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Rc2BC6AwdOncuw6Sf/giphy.gif" width="250"/>
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=anhnguyen148&style=flat-square&color=red" alt=""></p>
 </div>
 
 <p align="center">
