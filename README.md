@@ -16,15 +16,15 @@
 <h1 align="center">Hey <img src="https://media.giphy.com/media/rwIefmbZUFr2inBRDj/giphy.gif" width="80"></h1>
 
 
-### :woman_technologist: &nbsp;About Me :
-Full Stack Developer <img src="https://media.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif" width="30"> U.S based - Vietnamese origin.
+### :woman_technologist: &nbsp;About Me:
+I am a Full Stack Developer <img src="https://media.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif" width="30"> U.S based - Vietnamese origin.
 - 🔭 I’m working as a Student Web Developer at the University of North Alabama.
 - 🌱 I’m currently learning DSA and solving problems on Leetcode in my free time.
 - 📫 How to reach me: <a href="https://anh.qanguyen.net/" target="_blank"><img src="https://img.shields.io/badge/my%20personal%20website-FE7F9C" alt="personal web"></a>
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+### 🛠 &nbsp;Languages and Tools:
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -46,7 +46,7 @@ Full Stack Developer <img src="https://media.giphy.com/media/5aYfJYohCSeYgtVlUj/
 
 ---
 
-### 🔥 &nbsp; My Stats :
+### 🔥 &nbsp; My Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=anhnguyen148&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anhnguyen148&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
