@@ -17,7 +17,7 @@
 Full Stack Developer <img src="https://media.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif" width="30"> U.S based - Vietnamese origin.
 - 🔭 I’m currently working as a Student Web Developer at the University of North Alabama.
 - 🌱 I’m currently learning DSA and solving problems on Leetcode in my free time.
-- 📫 How to reach me: <a href="https://anh.qanguyen.net/" target="_blank"><img src="https://img.shields.io/badge/my%20personal%20website-8A2BE2" alt="personal web"></a>
+- 📫 How to reach me: <a href="https://anh.qanguyen.net/" target="_blank"><img src="https://img.shields.io/badge/my%20personal%20website-FE7D6A" alt="personal web"></a>
 - 
 - 
 
