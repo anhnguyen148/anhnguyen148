@@ -1,4 +1,5 @@
-<h1 align="center"><img src="https://media.giphy.com/media/rwIefmbZUFr2inBRDj/giphy.gif" width="200"></h1>
+<p align="center"><img src="https://media.giphy.com/media/rwIefmbZUFr2inBRDj/giphy.gif" width="250"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjY2ZGo5MG1mdnA2aGg5cXUzMDZub29xOGM0M3RjaGljeXgyM3lwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Rc2BC6AwdOncuw6Sf/giphy.gif" width="250"/>
+</p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=anhnguyen148&style=flat-square&color=red" alt=""></p>
 <!-- <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1> -->
 
