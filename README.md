@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://media.giphy.com/media/rwIefmbZUFr2inBRDj/giphy.gif" width="200"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/rwIefmbZUFr2inBRDj/giphy.gif" width="200"></h1>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=anhnguyen148&style=flat-square&color=red" alt=""></p>
 <!-- <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1> -->
 
