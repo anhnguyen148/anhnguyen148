@@ -34,7 +34,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/5aYfJYohCSeY
 
 ### 🔥 &nbsp; My Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=anhnguyen148&theme=default)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anhnguyen148)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anhnguyen148&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
