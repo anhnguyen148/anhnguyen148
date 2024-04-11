@@ -6,7 +6,7 @@
 Desire to be a Full Stack Developer <img src="https://media.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif" width="30"> U.S based - Vietnamese origin.
 - 🔭 I’m a senior student and working as a Student Web Developer at the University of North Alabama.
 - 🌱 I’m currently learning DSA and solving problems on Leetcode in my spare time.
-- 🎨 Not only do I like coding, I also have a passion for art, especially digital design, I almost design everything for my programming products.
+- 🎨 I not only enjoy coding but also have a deep passion for art, particularly digital design. I apply my design skills to almost every aspect of my programming projects
 - 📫 How to reach me: <a href="https://anh.qanguyen.net/" target="_blank"><img src="https://img.shields.io/badge/my%20personal%20website-FE7F9C" alt="personal web"></a> <a href="https://www.linkedin.com/in/anh-nguyen-2178b2256/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 
 ---
